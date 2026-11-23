@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Rojin Bimb: SOC Analyst, detection tuning, incident response" width="100%" />
+<img src="banner.jpg" alt="Rojin Bimb: SOC Analyst, detection tuning, incident response" width="100%" />
 
 <br />
 
@@ -59,18 +59,6 @@ data science · AI · ML
 - 🌱 Learning **data science, AI, and ML**, with an eye on applying them to security analytics
 - 🔒 Running a **security-first portfolio** at [rojinbimb.com.np](https://rojinbimb.com.np): static Astro build, strict Content Security Policy, zero client-side JavaScript, automated CI/CD
 - 🖥️ Tinkering with my self-hosted VPS: containers, reverse proxies, and hardening
-
-<img src="divider.png" width="100%" height="6" alt="" />
-
-## 📈 GitHub stats
-
-<div align="center">
-
-<a href="https://github.com/RojinBimb">
-  <img height="180" alt="Rojin's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RojinBimb&show_icons=true&include_all_commits=false&hide_border=false&bg_color=0b0f14&title_color=3ddc97&text_color=d7e0ea&icon_color=5cc8ff&border_color=1f2a37&ring_color=3ddc97" />
-</a>
-
-</div>
 
 <img src="divider.png" width="100%" height="6" alt="" />
 
