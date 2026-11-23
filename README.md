@@ -67,15 +67,8 @@ data science · AI · ML
 <div align="center">
 
 <a href="https://github.com/RojinBimb">
-  <img height="180" alt="Rojin's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RojinBimb&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0b0f14&title_color=3ddc97&text_color=d7e0ea&icon_color=5cc8ff&border_color=1f2a37&ring_color=3ddc97" />
+  <img height="180" alt="Rojin's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RojinBimb&show_icons=true&include_all_commits=false&hide_border=false&bg_color=0b0f14&title_color=3ddc97&text_color=d7e0ea&icon_color=5cc8ff&border_color=1f2a37&ring_color=3ddc97" />
 </a>
-<a href="https://github.com/RojinBimb">
-  <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RojinBimb&layout=compact&hide_border=false&bg_color=0b0f14&title_color=3ddc97&text_color=d7e0ea&border_color=1f2a37" />
-</a>
-
-<br />
-
-<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=RojinBimb&hide_border=false&background=0B0F14&border=1F2A37&ring=3DDC97&fire=FF2E63&currStreakNum=FFFFFF&currStreakLabel=3DDC97&sideNums=FFFFFF&sideLabels=8696A7&dates=8696A7" />
 
 </div>
 
