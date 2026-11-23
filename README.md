@@ -64,7 +64,7 @@ data science · AI · ML
 
 ## 🔗 Let's connect
 
-The best way to reach me is through my website's contact page, or on LinkedIn.
+The best way to reach me is through LinkedIn.
 
 <div align="center">
 
